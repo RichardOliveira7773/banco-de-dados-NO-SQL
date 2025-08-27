@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(124, 124, 124) (239, 245, 247);
+}
+
+h1 {
+    color: rgb(139, 139, 253);
+}
+
+h2 {
+    color: rgb(10, 0, 0);
+}
+
+#preco {
+    color: rgb(13, 73, 7);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#preco:hover {
+    color: rgb(247, 10, 10);
+}
+
+
+
+.botao {
+    background-color: rgb(8, 128, 226);
+    border: none;
+    color: white;
+}

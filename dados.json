@@ -1,0 +1,37 @@
+[
+    {
+        "produtos": {
+            "prod1" : "Notebook Dell",
+            "prod2" : "Iphone 16",
+            "prod3" : "Mac Book"
+        }
+    },
+    {
+        "vendedor": {
+            "venda1" : "Vendedor: Richard",
+            "venda2" : "vendedor: Ryan",
+            "venda3": "vendedor: João"
+        }
+    },
+    {
+        "preco": {
+            "preco1" : "2550.00",
+            "preco2" : "3199.00",
+            "preco3" : "4500.00"
+        }
+    },
+    {
+        "cliente": {
+            "cliente1" : " Cliente: Sandro",
+            "cliente2" : "Cliente: Romario",
+            "cliente3" : "Cliente: Ronaldo"
+        }
+    },
+    {
+        "imagemProdutos": {
+            "image1": "<img src='img/note.jpg' width='200px'>",
+            "image2": "<img src='img/iphone.jpg' width='200px'>",
+            "image3": "<img src='img/mac.jpg' width='200px'>"
+        }
+    }
+]
